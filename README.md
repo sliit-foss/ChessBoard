@@ -7,6 +7,7 @@ Chess board is an awesome chess game ever. In this site you can move chess piece
 [![JetBrains Plugins](https://img.shields.io/jetbrains/plugin/v/9630-a8translate.svg)](https://plugins.jetbrains.com/)
 
 ## Getting Started
+This game is mostly based on JavaScripts and jQuery before start contribution learn those stuff. 
 
 # Running the test
 
@@ -25,7 +26,14 @@ Chess board is an awesome chess game ever. In this site you can move chess piece
 
 ## Deployment
 
-Download And Improve
+
+## How to play
+
+1. Download repository
+2. Open index.html using a browser(Latest Browser)
+3. To play the game click *Play Now!* button
+4. Then click hamburger(Menu Icon) in top left conner.
+5. After that click on *New Game* Button
 
 ## Built With
 
@@ -35,19 +43,23 @@ Download And Improve
 ## Contributing
 
 * **Punit Kathiriya** - *Developer* - [punitakathiriya](https://github.com/punitakathiriya/) 
+
 [Website](http://www.chamodshehanka.com)
 
 See also the list of [contributors]() who participated in this project.
 
-## Versioning
+## Version Controlling
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository] 
+I use [SemVer](http://semver.org/) for version controlling. For the versions available, see the [tags on this repository] 
 
 ## Authors
 
 * **Punit Kathiriya** - *Developer* - [punitakathiriya](https://github.com/punitakathiriya/)
+* **Chamod Shehanka** - *Full Stack Developer* - [Shehanka](https://github.com/Shehanka)
 
 See also the list of [contributors]() who participated in this project.
+
+
 
 ## License
 
