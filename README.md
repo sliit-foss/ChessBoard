@@ -8,24 +8,24 @@ Chess board is an awesome chess game ever. In this site you can move chess piece
 
 ## Getting Started
 
-# Running the tests
+# Running the test
 
 
 
-### Break down into end to end tests
+#### Break down into end to end tests
 
 
 
 
 
-### And coding style tests
+#### And coding style tests
 
 
 
 
 ## Deployment
 
-Download this
+Download And Improve
 
 ## Built With
 
@@ -34,7 +34,7 @@ Download this
 
 ## Contributing
 
-* **Chamod Shehanka** - *Developer* - [Shehanka](https://github.com/Shehanka) 
+* **Punit Kathiriya** - *Developer* - [punitakathiriya](https://github.com/punitakathiriya/) 
 [Website](http://www.chamodshehanka.com)
 
 See also the list of [contributors]() who participated in this project.
@@ -45,7 +45,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Chamod Shehanka** - *Developer* - [Shehanka](https://github.com/Shehanka)
+* **Punit Kathiriya** - *Developer* - [punitakathiriya](https://github.com/punitakathiriya/)
 
 See also the list of [contributors]() who participated in this project.
 
