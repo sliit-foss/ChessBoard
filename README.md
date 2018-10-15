@@ -9,24 +9,6 @@ Chess board is an awesome chess game ever. In this site you can move chess piece
 ## Getting Started
 This game is mostly based on JavaScripts and jQuery before start contribution learn those stuff. 
 
-# Running the test
-
-
-
-#### Break down into end to end tests
-
-
-
-
-
-#### And coding style tests
-
-
-
-
-## Deployment
-
-
 ## How to play
 
 1. Download repository
@@ -42,8 +24,7 @@ This game is mostly based on JavaScripts and jQuery before start contribution le
 
 ## Contributing
 
-* **Punit Kathiriya** - *Developer* - [punitakathiriya](https://github.com/punitakathiriya/) 
-
+* **Chamod Shehanka** - *Developer* - [Shehanka](https://github.com/Shehanka) 
 [Website](http://www.chamodshehanka.com)
 
 See also the list of [contributors]() who participated in this project.
@@ -54,12 +35,7 @@ I use [SemVer](http://semver.org/) for version controlling. For the versions ava
 
 ## Authors
 
-* **Punit Kathiriya** - *Developer* - [punitakathiriya](https://github.com/punitakathiriya/)
 * **Chamod Shehanka** - *Full Stack Developer* - [Shehanka](https://github.com/Shehanka)
-
-See also the list of [contributors]() who participated in this project.
-
-
 
 ## License
 
