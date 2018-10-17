@@ -64,3 +64,5 @@ See also the list of [contributors]() who participated in this project.
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE.md](https://github.com/Shehanka/Chess_Board/blob/master/LICENSE) file for details
+## how to work in github
+Built for professional teams. Secure your workflow with Bitbucket®. Try it now! Code collab for teams. Free for 5 users. Unlimited private repos. Git & Mercurial code mgmt. Services: Unlimited Private Repo, Small Teams Free, Private Server Hosting.
