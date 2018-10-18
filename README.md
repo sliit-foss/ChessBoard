@@ -41,25 +41,16 @@ This game is mostly based on JavaScripts and jQuery before start contribution le
 * [annyang!](https://www.talater.com/annyang/) - The voice command JavaScript Library used
 
 ## Contributing
-
+* **Chamod Shehanka** - *Full Stack Developer* - [GitHub](https://github.com/Shehanka) - [Website](http://www.chamodshehanka.com)
 * **Punit Kathiriya** - *Developer* - [punitakathiriya](https://github.com/punitakathiriya/) 
-
-[Website](http://www.chamodshehanka.com)
 
 See also the list of [contributors]() who participated in this project.
 
 ## Version Controlling
-
 I use [SemVer](http://semver.org/) for version controlling. For the versions available, see the [tags on this repository] 
 
 ## Authors
-
-* **Punit Kathiriya** - *Developer* - [punitakathiriya](https://github.com/punitakathiriya/)
 * **Chamod Shehanka** - *Full Stack Developer* - [Shehanka](https://github.com/Shehanka)
-
-See also the list of [contributors]() who participated in this project.
-
-
 
 ## License
 
